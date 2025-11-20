@@ -3,5 +3,4 @@ Este repositorio almacena los scripts utilizados en el [**post**](ssssssssss) de
 
 ⚠️No me hago responsable de cualquier uso malintencionado o equivocado del contenido expuesto o cualquiera de sus referencias. ⚠️
 
-
-<
+![Desktop View](/dropper.png)
