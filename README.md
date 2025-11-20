@@ -1,2 +1,7 @@
 # Dropper Anydesk
-Este repositorio almacena los scripts utilizados en el [**post**](ssssssssss) . En este post y con los scrips almacenados en este repositorio tenemos una PoC de un dropper con el que podamos instalar, tras comprometer una máquina. El contenido del post y de este repositorio se basa en una imitación de los métodos de persistencia creados en un caso real reflejado en el artículo [**From IcedID to Dagon Locker Ransomware in 29 Days**](https://thedfirreport.com/2024/04/29/from-icedid-to-dagon-locker-ransomware-in-29-days/#persistence) de The DFIR Report
+Este repositorio almacena los scripts utilizados en el [**post**](ssssssssss) de mi blog . En este post y con los scrips almacenados en este repositorio tenemos una PoC de un dropper con el que podamos instalar, tras comprometer una máquina. El contenido del post y de este repositorio se basa en una imitación de los métodos de persistencia creados en un caso real reflejado en el artículo [**From IcedID to Dagon Locker Ransomware in 29 Days**](https://thedfirreport.com/2024/04/29/from-icedid-to-dagon-locker-ransomware-in-29-days/#persistence) de The DFIR Report. <br>
+
+⚠️No me hago responsable de cualquier uso malintencionado o equivocado del contenido expuesto o cualquiera de sus referencias. ⚠️
+
+
+<
